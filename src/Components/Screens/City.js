@@ -24,6 +24,9 @@ const City = () => {
                 bodyTextStyles={riseSetText}
                 />
             </View>
+            <View>
+                <Text>Kushagra shrivastava</Text>
+            </View>
             </ImageBackground>
         </SafeAreaView>
     )
