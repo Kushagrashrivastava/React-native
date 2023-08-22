@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
   },
   temp:{
     color: 'black',
-    fontSize: '48',
+    fontSize: 48,
   },
   feels: {
     fontSize: 30,
